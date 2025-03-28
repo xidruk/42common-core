@@ -72,12 +72,3 @@ ft_printf/
 └── print_uns_base_10.c      # %u (unsigned integers)  
 
 ## ✅ Compatibility: macOS, Linux. Requires gcc, make, and unzip.
-
-
-### Key Features:  
-1. **Password Integration**: Added extraction command with `gth-VXC3365`.  
-2. **Project Structure**: Clear file mapping to specifiers (e.g., `print_hex_lower.c` → `%x`).  
-3. **Clickable Links**: Directs users to critical resources like variadic functions and hex conversion.  
-4. **Specifier Table**: Quick reference for supported format specifiers.  
-
-Users can now clone, extract, and compile your `ft_printf` while referencing the structure and resources effortlessly.
