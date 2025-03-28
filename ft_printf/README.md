@@ -46,7 +46,6 @@ This project reimplements **`printf`** from scratch, supporting format specifier
 ---  
 
 ## 🔧 Installation  
-```bash  
 ### 1. Download ft_printf.zip  
 download it from the repository !  
 
@@ -55,7 +54,7 @@ unzip -P gth-VXC3365 ft_printf.zip
 
 ### 3. Compile  
 cd ft_printf && make
-```
+
 ## 📂 Project Structure
 
 ft_printf/  
