@@ -57,6 +57,8 @@ cd ft_printf && make
 
 ## 📂 Project Structure
 
+---  
+
 ft_printf/  
 ├── Makefile                 # Build rules  
 ├── ft_printf.h              # Header (macros, prototypes)  
