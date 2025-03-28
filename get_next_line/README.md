@@ -32,13 +32,13 @@ This project implements a function `get_next_line` that reads a line from a file
 ---  
 
 ## 🔧 Installation  
-# 1. Download get_next_line.zip  
+### 1. Download get_next_line.zip  
 wget https://<your-repo-url>/get_next_line.zip  
 
-# 2. Extract with password  
+### 2. Extract with password  
 unzip -P fpl-GHT985623 get_next_line.zip  
 
-# 3. Compile  
+### 3. Compile  
 cd get_next_line && make  
 
 ---
