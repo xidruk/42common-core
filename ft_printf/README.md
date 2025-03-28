@@ -55,7 +55,7 @@ unzip -P gth-VXC3365 ft_printf.zip
 
 # 3. Compile  
 cd ft_printf && make
-
+```
 ## 📂 Project Structure
 
 ft_printf/  
