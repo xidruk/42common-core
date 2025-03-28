@@ -47,13 +47,13 @@ This project reimplements **`printf`** from scratch, supporting format specifier
 
 ## 🔧 Installation  
 ```bash  
-# 1. Download ft_printf.zip  
-wget https://<your-repo-url>/ft_printf.zip  
+### 1. Download ft_printf.zip  
+download it from the repository !  
 
-# 2. Extract with password  
+### 2. Extract with password  
 unzip -P gth-VXC3365 ft_printf.zip  
 
-# 3. Compile  
+### 3. Compile  
 cd ft_printf && make
 ```
 ## 📂 Project Structure
